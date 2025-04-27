@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Pune",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2015-04-12T18:30:00.000Z",
+      "notes": "Mama ne apna pahla ghar liya tha to usi ke grihpravesh me gya tha.",
+      "position": {
+        "lat": "18.475050317494738",
+        "lng": "73.82331848144533"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Naini Tal",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-04-22T06:30:21.117Z",
+      "notes": "Dosto ke sath trip pe gya tha \nBhut mje kiya the aur \nbhut mja aaya tha",
+      "position": {
+        "lat": "29.3893546604737",
+        "lng": "79.49844360351564"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Haldwani",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-04-22T06:32:15.181Z",
+      "notes": "Actually haldwani ka hi part hai kathgodham but yrr trip ka sbse best part tha wo nadhi me nahana best tha ",
+      "position": {
+        "lat": "29.2651363628668",
+        "lng": "79.54341888427736"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Greater Noida",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-04-22T06:33:24.568Z",
+      "notes": "Yha rha rha hu 3 saal se aur padhae kr rha hu Btech ki",
+      "position": {
+        "lat": "28.461447671879842",
+        "lng": "77.62939453125001"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Faridabad",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-04-27T11:16:01.484Z",
+      "notes": "Mere Mummy ke Mama yha rahte hai\n",
+      "position": {
+        "lat": "28.39864879699246",
+        "lng": "77.35336303710939"
+      },
+      "id": 98443202
+    }
+  ]
+}
