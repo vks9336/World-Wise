@@ -59,6 +59,18 @@
         "lng": "77.35336303710939"
       },
       "id": 98443202
+    },
+    {
+      "cityName": "Bareilly",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-04-28T05:07:02.997Z",
+      "notes": "wanna visit phoneix mall",
+      "position": {
+        "lat": "28.37327715450343",
+        "lng": "79.42565917968751"
+      },
+      "id": 98443203
     }
   ]
 }
