@@ -29,8 +29,8 @@ function reducer(state, action) {
 
 const FAKE_USER = {
   name: "Vishal Kumar Singh",
-  email: "vishalkumar9336108623@gmail.com",
-  password: "Vishal@9336",
+  email: "abcd@example.com",
+  password: "123456789",
   avatar: "../../public/me.jpg",
 };
 
