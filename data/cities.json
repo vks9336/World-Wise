@@ -23,6 +23,30 @@
         "lng": "76.60903930664064"
       },
       "id": 2
+    },
+    {
+      "cityName": "Meerut",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-07-15T20:21:19.379Z",
+      "notes": "TEST",
+      "position": {
+        "lat": "28.99612953724707",
+        "lng": "77.78320312500001"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Chaubara",
+      "country": "Pakistan",
+      "emoji": "🇵🇰",
+      "date": "2025-07-15T20:23:26.749Z",
+      "notes": "Pakistan ki ma ka bhoshdha",
+      "position": {
+        "lat": "30.977609093348686",
+        "lng": "71.27929687500001"
+      },
+      "id": 4
     }
   ]
 }
